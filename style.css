@@ -1,0 +1,198 @@
+body{
+    margin-left: 35px;
+    margin-right: 35px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#leftnav{
+    width: 50%;
+    float: left;
+}
+
+#leftnav div{
+    display: inline-block;
+    line-height: 0px;
+    margin-bottom: 0;
+}
+#rightnav{
+    width: 50%;
+    float: right;
+    position: relative;
+    left: 375px;
+    top: 10px;
+}
+
+#rightnav ul li{
+    display: inline-block;
+}
+#p1{
+    font-family: 'Lobster', cursive;
+    font-style: italic;
+    font-size: 30px;
+}
+#p2{
+    font-size: 8px;
+}
+
+hr{
+    border-top: 10px solid gray;
+    clear: both;
+    position: relative;
+    top: 15px;
+}
+
+
+#first{
+    position: relative;
+    top: 35px;
+}
+
+#leftTitle{
+    width: 50%;
+    float: left;
+    line-height: 0;
+}
+
+#title{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
+#date{
+    color: gray;
+    font-size: 10px;
+}
+
+
+#rightPrint{
+    width: 50%;
+    float: right;
+    position: relative;
+    left: 590px;
+    top: 40px;
+    font-size: 10px;
+    color: gray;
+}
+
+#rightPrint p{
+    display: inline;
+}
+
+#second img{
+    width: 100%;
+    position: relative;
+    top: 60px;
+}
+
+#third p{
+    font-size: 20px;
+    font-family: 'Kiwi Maru', serif;
+    position: relative;
+    top: 40px;
+    margin-top: 35px;
+}
+
+#forth{
+    position: relative;
+    margin-top: 70px;
+}
+#forth hr{
+    top: -250px;
+    margin-top: -500px;
+}
+#leftList{
+    position: relative;
+    bottom: 377px;
+    left: 70px;
+    width: 40%;
+    float: left;
+    line-height: 20px;
+    
+}
+#leftList label {
+    display: block;
+    color: gray;
+    font-family: 'Itim', cursive;
+    font-size: 35px;
+
+}
+ #rightList{
+    position: relative;
+    width: 60%;
+    float: right;
+    left: 100px;
+    bottom: 388px;
+}
+
+#rightList label {
+    display: block;
+    color: gray;
+    font-family: 'Itim', cursive;
+    font-size: 35px;
+
+}
+#fifth {
+    position: relative;
+    top: -200px;
+    margin-top: -200px
+}
+#leftnavbottom
+{
+    width: 80%;
+    float: left;
+}
+#leftnavbottom div{
+    display: inline-block;
+    line-height: 10px;
+
+}
+#name{
+    font-family: 'Arvo', serif;
+    font-size: 27px;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+#profile{
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+#rightnavbottom{
+    width: 20%;
+    float: right;
+}
+
+button{
+    background-color: rgba(228, 90, 72, 0.87);
+    color: white;
+    width: 90%;
+    height: 65px;
+    font-size: 20px;
+    vertical-align: middle;
+    margin-top: 15px;
+}
+
+#bottom{
+    clear: both;
+}
+#bottom hr{
+    border: solid 1px gray;
+    position: relative;
+    top: 75px;
+}
+#bottom img{
+    position: relative;
+    left: 620px;
+    bottom: 10px;
+    top: 50px;
+}
+
+footer{
+    clear: both;
+    position: relative;
+    top: -60px;
+    margin-top: -60px;
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
